@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Profile</title>
+</head>
+<body style="margin:0; font-family:Verdana; background-color:#e6f2ff;">
+
+    <div style="width:300px; margin:100px auto; background:white; padding:20px; 
+                border-radius:10px; box-shadow:0 0 10px #aaa; text-align:center;">
+        
+        <h2 style="margin:0; color:#333;">John Doe</h2>
+        <p style="color:gray;">Web Developer</p>
+        
+        <hr>
+
+        <p>Email: john@example.com</p>
+        <p>Location: Bangalore</p>
+
+        <button style="padding:8px 15px; background:#007bff; color:white; 
+                       border:none; border-radius:5px;">
+            Contact
+        </button>
+
+    </div>
+
+</body>
+</html>
