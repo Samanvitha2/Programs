@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Simple Page</title>
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; padding: 0;">
+
+    <header style="background-color: #333; color: white; text-align: center; padding: 20px;">
+        <h1>Welcome</h1>
+    </header>
+
+    <section style="padding: 20px; text-align: center;">
+        <h2>Simple HTML + CSS Page</h2>
+        <p>This is a basic webpage using inline CSS only.</p>
+        <button style="padding: 10px 20px; background-color: #007BFF; color: white; border: none; border-radius: 5px;">
+            Click Me
+        </button>
+    </section>
+
+    <footer style="background-color: #333; color: white; text-align: center; padding: 10px;">
+        <p>© 2026 Simple Page</p>
+    </footer>
+
+</body>
+</html>
